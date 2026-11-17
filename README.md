@@ -7,15 +7,15 @@
 ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ 
 ```
 
-**Andrii Hubanov** — product designer, Warsaw.
+hey, i'm andrii
+i design digital products, from brand to interface. 10+ years in mobile apps and large-scale saas, based in warsaw. i work with founders on ux, product design, branding and growth.
 
-10+ years designing mobile apps and large-scale SaaS platforms.
-I work with founders on UX and product design, branding, and growth-focused design.
+what i do
 
-```text
-PRODUCT & UX ····· from first idea to a shipped, scalable product
-BRANDING ········· identity that holds up as the product grows
-GROWTH DESIGN ···· flows built to move the numbers that matter
-```
+* product & ux design · from first idea to a shipped, scalable product
+* branding · identity that holds up as the product grows
+* growth design · flows built to move the numbers that matter
 
-[X / @AndriiDsgn](https://x.com/AndriiDsgn)
+find me
+
+* [x / @AndriiDsgn](https://x.com/AndriiDsgn)
