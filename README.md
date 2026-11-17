@@ -17,7 +17,7 @@ i design digital products, from brand to interface. 10+ years in mobile apps and
 
 **for your coding agent**
 
-* [ux-audit-skill](https://github.com/andhubanov-designer/ux-audit-skill) · a ux audit by a senior product designer: verdict, top 3 fixes, ranked findings
+* [ux-audit-skill](https://github.com/andhubanov/ux-audit-skill) · a ux audit by a senior product designer: verdict, top 3 fixes, ranked findings
 
 **what i do**
 
