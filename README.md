@@ -18,6 +18,7 @@ i design digital products, from brand to interface. 10+ years in mobile apps and
 **for your coding agent**
 
 * [ux-audit-skill](https://github.com/andhubanov/ux-audit-skill) · a ux audit by a senior product designer: verdict, top 3 fixes, ranked findings
+* [design-tokens-starter](https://github.com/andhubanov/design-tokens-starter) · one brand colour in, light and dark themes out: css, tailwind, figma variables
 
 **what i do**
 
